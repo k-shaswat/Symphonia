@@ -26,7 +26,7 @@ The project requires the following Python libraries:
 2. Place your audio file (instrumental or vocals) in the desired folder.
 3. Run the script:
    ```bash
-   python symphonia.py
+   python Symphonia.py
 
 4. Once the audio is processed, the program will display the available instruments for you to choose from (e.g., Acoustic Guitar, Grand Piano, Mellotron Flute).
 
