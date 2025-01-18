@@ -32,8 +32,5 @@ The project requires the following Python libraries:
 
 5. The program will then generate the notes and play them using the selected instrument's soundfont.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
